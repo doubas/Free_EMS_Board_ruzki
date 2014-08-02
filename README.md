@@ -3,7 +3,7 @@
 
 ### Introduction
 
-The aim of the FreeEms Board 40 is to provided a simple and small prototyping board for use with the FreeEms firmware but with the same pinout as the MegaSquirt-II daughterboard has. The FreeEms Board 40 is not mentioned to be a 1:1 replacement for the Megasquirt-II daughterboard. In comparison with the Megasquirt-II daughterboard the FreeEMS Baord 40 misses the IAC Idle Valve driver and has already pins 40 and 39 connected to the mcu ports to drive the 3th and 4th injector also know as the sequential mod.
+The aim of the FreeEms Board 40 is to provided a simple and small prototyping board for use with the FreeEms firmware but with the same pinout as the MegaSquirt-II daughterboard has. The FreeEms Board 40 is not mentioned to be a 1:1 replacement for the Megasquirt-II daughterboard. In comparison with the Megasquirt-II daughterboard the FreeEMS Baord 40 misses the IAC Idle Valve driver and has already pin 40 and 39 connected to the MCU (3rd and 4th injector), also know as the sequential mod.
 
 Please see forum.diyefi.org for the most up to date information and links for this project and all of the other aspects of the FreeEMS project.
 
@@ -25,9 +25,9 @@ Core IO specs:
  * 1  Load jumper for loading the FreeEms firmware without BDM
  * 1  BDM connector 
 
-PCB size is held small as possible but wider as the Megasquirt-II daughterboard. Board size is (60mm x 38mm).  Most of the components are SMD parts but not smaller than SMD 0805 so that the parts can be soldered with some practice by hand. 
+PCB size is held small as possible but wider as the Megasquirt-II daughterboard. Board size is (60mm x 38mm).  Most of the components are SMD parts but not smaller than SMD 0805 so the parts can be soldered with some practice by hand. 
 
-To maintain a small PCB size the FreeEms 40 Board uses bended male precision PCB contacts these can be made by careful bending of the standard precision PCB contacts but also already bended precision PCB contacts can be bought e.g.. „Fisher Elektronik MK 26 SMD“. It is recommended to solder this pins by using a 40 pin precision socket. 
+To maintain a small PCB size the FreeEms 40 Board uses bended male precision PCB contacts, these can be made by careful bending the standard precision PCB contacts. Already bended precision PCB contacts can be bought e.g.. „Fisher Elektronik MK 26 SMD“. It is recommended to solder this pins by using a 40 pin precision socket as fixation. 
 
 ### Status
 
