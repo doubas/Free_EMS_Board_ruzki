@@ -1,7 +1,7 @@
 ### Licensing Summary:
 
 This license is based on the license made by Andy Goss for the Jaguar EFI.
-For more information about the Jaguar EFI please visit: https://github.com/DeuceEFI/Jaguar/
+For more information about the Jaguar EFI please visit: https://github.com/DeuceEFI/Jaguar/                 
 To view a copy of of the original license please visit: https://github.com/DeuceEFI/Jaguar/blob/dev/LICENSE.md
  
 The material in this repository is licensed in two distinct ways as detailed below. The PCB files (all types) and
